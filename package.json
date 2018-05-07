@@ -1,0 +1,42 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "Its just a react and webpack setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalajgoel/React-Webpack.git"
+  },
+  "keywords": [
+    "React",
+    "react",
+    "Webpack",
+    "webpack",
+    "react-webpack",
+    "React-Webpack",
+    "node",
+    "Node",
+    "nodejs",
+    "Nodejs",
+    "js",
+    "Js",
+    "JS",
+    "api",
+    "github",
+    "RestApi",
+    "Html",
+    "css",
+    "ES",
+    "ES6",
+    "JSX"
+  ],
+  "author": "Jalaj Goel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalajgoel/React-Webpack/issues"
+  },
+  "homepage": "https://github.com/jalajgoel/React-Webpack#readme"
+}
